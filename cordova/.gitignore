@@ -4,6 +4,11 @@
 /dist
 /tmp
 /out-tsc
+/www
+
+# cordova
+/platforms
+/plugins
 
 # dependencies
 /node_modules
